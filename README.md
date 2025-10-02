@@ -6,4 +6,8 @@ J'ai vraiment pas d'inspiration moi hein.
 
  * Une deuxième modification
  * Avec une liste
- 
+
+image
+![Tux, the Linux mascot][def]
+
+[def]: tux.avif
